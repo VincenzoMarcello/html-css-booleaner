@@ -1,0 +1,35 @@
+.container {
+    width: 70%;
+    height: 800px;
+    margin: auto;
+}
+
+.logo {
+    width: 25%;
+    position: relative;
+    top: 60px;
+    left: 10px;
+}
+
+.container-logo {
+    height: 150px;
+    background-color: lightskyblue;
+    background-image: url(../img/pattern.png);
+}
+
+.address-text {
+    font-style: normal;
+    color: lightgray;
+    font-size: 18px;
+}
+
+.booleaner-text{
+    color: lightskyblue;
+}
+
+
+
+    
+
+
+
