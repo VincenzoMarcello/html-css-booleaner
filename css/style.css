@@ -21,10 +21,15 @@
     font-style: normal;
     color: lightgray;
     font-size: 18px;
+    margin-bottom: 20px;
 }
 
 .booleaner-text{
     color: lightskyblue;
+}
+
+.image-text {
+    font-size: 15px;
 }
 
 
