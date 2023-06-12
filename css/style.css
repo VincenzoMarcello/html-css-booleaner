@@ -1,6 +1,5 @@
 .container {
     width: 70%;
-    height: 800px;
     margin: auto;
 }
 
@@ -64,6 +63,36 @@ th,td {
 
 tbody tr:nth-child(odd) {
     background-color: lightblue;
+}
+
+h3 {
+    color: grey;
+}
+
+.image-top {
+    background-image:url(../img/monitor.jpg) ;
+    height: 150px;
+    width: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.image-bottom {
+    background-image:url(../img/graph.jpg) ;
+    height: 200px;
+    width: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.footer-text {
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    
 }
 
 
